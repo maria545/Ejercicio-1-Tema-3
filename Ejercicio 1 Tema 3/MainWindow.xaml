@@ -8,6 +8,7 @@
         Title="Formulario StackPanel" Height="365.702" Width="800"
         Icon="form.ico"
         MaxWidth="950" MinWidth="400">
+    
     <StackPanel Margin="10">
         <StackPanel Height="86">
             <StackPanel.Background>
